@@ -114,7 +114,7 @@ On March 15, 2026 at 02:47 AM EST, WBMUD's SOC detected unauthorized access from
 
 **Data Exfiltration:** 2.3 GB transferred from SCADA devices → OT-Web-Server → OT-Router → IT-Router → external attacker IP.
 
-![Attack Path Diagram](attack-path.png)
+![Attack Path Diagram](attack-path.jpg)
 
 ### Root Cause Analysis
 
